@@ -1,0 +1,103 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+button{
+	color: #fff;
+	background: #0066FF;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid #0066FF;
+    border-radius: 4px
+}
+.header{
+	width: 100%;
+	height: 50px;
+	background:#2E00CF;
+}
+.header-in{
+	width: 900px;
+	height: 100%;
+	background: #2E00CF;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	margin:7px 0 0 100px; 
+}
+.header-in-r{
+	float: right;
+}
+.youpho{
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+	float: right;
+}
+.b_newtext{
+	float: left;
+	margin: 10px 30px 0 0;
+    padding: 6px 12px;
+}
+.main{
+	width: 900px;
+	height: 500px;
+	margin: 0 auto;
+}
+.list{
+	width: 200px;
+	padding: 0 100px 0 0;
+	float: left;
+}
+.ul-list{
+	list-style: none;
+	margin-top:30px; 
+}
+.li-list{
+	width: 200px;
+	margin-bottom: 10px;
+	background: #F2F2F2; 
+	font-size: 14px;
+	font-family: 'ArialMT', 'Arial';
+    font-weight: 400;
+    color: #333333;
+    text-align: center;
+    line-height: 33px;
+}
+.content{
+	width: 600px;
+	background: #F2F2F2;
+	float: right;
+}
+.form-hori{
+	margin: 50px 0 0 120px;
+}
+.title{
+	margin-bottom: 40px;
+}
+
+label{
+	float: left;
+	width: 50px;
+}
+input{
+	width: 400px;
+	height: 33px;
+}
+textarea{
+	width: 400px;
+	height: 300px;
+}
+.b_submit{
+	color: #fff;
+	background: #0066FF;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    border: 1px solid #0066FF;
+    border-radius: 4px;
+    padding: 6px 12px;
+    float: right;
+    margin: 10px 30px;
+}
